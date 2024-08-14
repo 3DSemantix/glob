@@ -1,7 +1,7 @@
 {
   "entryAssembly": "GlobApp",
   "resources": {
-    "hash": "sha256-rcMb5AesLn3qOBjJds/jVlZygxGB7LmW9UiBY7Rmo9M=",
+    "hash": "sha256-B7CMNcJ3aw8A3OAKLEnr3MUDS2cJS1bF3oJe4FFJyJw=",
     "runtime": {
       "dotnet.6.0.32.cwpnov5ouh.js": "sha256-6fa9WVfvYrd56Fl6GQXGO40czbLt6gcYgnZxXB+Sn5A=",
       "dotnet.timezones.blat": "sha256-ALK3ufXwNaP1t4mRlACcINalB2grQvfkrI/8lo7nNq0=",
@@ -11,8 +11,8 @@
       "icudt_no_CJK.dat": "sha256-OxylFgLJlFqixsj+nLxYVsv5iZLvfIKMpLf9hrWaChA="
     },
     "assembly": {
-      "Glob.dll": "sha256-3y9K9xam6Ilkqf3cQGCVnTjNvJVqeUdZuKN6MtRi7Eo=",
-      "GlobApp.dll": "sha256-lqnnE5Qy3IVLjl4oHdPJBYyce5o1TYmwtTOg6CsYAZE=",
+      "Glob.dll": "sha256-JoRHNlrw+lVaXWsvv57+kqg1J55HvvkiTtqKKib7PGc=",
+      "GlobApp.dll": "sha256-W0jr0jE59DpopZwhUiLWamfPvixJQfb9tfH8IEYA2gc=",
       "Microsoft.AspNetCore.Components.dll": "sha256-QgF6rr6euozAz1POs5KEY7qOuhHQhfRtIo2wo500Ekw=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-S8VCCMbbF2YBg0Fs2aYKt19pAwIaigffRtIbEpD8pDI=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-TrlksAtxThLR6NzpmhN+vFYzdpu+ZGPfvosKV1CnzpM=",
