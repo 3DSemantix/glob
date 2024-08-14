@@ -14,7 +14,7 @@
 
     <div class="form-group">
         <label for="globExpression">Glob Expression</label>
-        <input type="text" class="@(invalidExpression ? "form-control is-invalid" : "form-control")" id="globExpression" @bind="GlobExpression" @bind:event="oninput" />
+        <input type="text" class="@(invalidExpression ? "form-control is-invalid" : "form-control")" id="globExpression" @bind="GlobExpression" @bind:event="oninput" onkeydown="if(event.keyCode === 13) { return false; }" autocomplete="off" />
         <small class="form-text text-muted">Enter a glob expression</small>
         @if (invalidExpression)
         {
